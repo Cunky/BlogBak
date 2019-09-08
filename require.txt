@@ -1,0 +1,5 @@
+hexo-theme-matery
+hexo-sage-posts
+hexo-helper-live2d
+hexo-prism-plugin
+hexo-generator-search
